@@ -1,0 +1,11 @@
+.food{
+    border: 5px solid;
+    border-color: black;
+    border-bottom: 3px solid;
+    padding: 2%;
+    border-bottom: 5px solid;
+    border-bottom-color: chartreuse;
+}
+.foot{
+    text-align: end;
+}
